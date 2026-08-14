@@ -27,13 +27,11 @@
 
 ### 📊 Featured Projects
 
-#### 🏔️ [Mount Everest Accidents & Safety Trends Analysis](https://github.com/yourusername/everest-accidents-analysis)
-* **Tech Stack:** `Python` • `Pandas` • `Matplotlib` • `Jupyter Notebook`
-* **Key Insights:** Conducted exploratory data analysis on historical incident data to evaluate route risk factors, seasonal environmental hazards, and demographic correlations over time.
+⬇️ Check out my projects below ⬇️
 
-#### 🛒 [Retail Customer Behavior & Shopping Trends](https://github.com/yourusername/retail-shopping-trends)
-* **Tech Stack:** `Python` • `Pandas` • `Seaborn` • `Jupyter Notebook`
-* **Key Insights:** Performed customer demographic segmentation and behavioral analysis across product categories, payment methods, and repeat purchase patterns.
+Explore my data analytics projects, including data cleaning, exploratory analysis, visualisation and business insights.
+
+Feel free to review my projects, share feedback, and connect with me.
 
 ---
 
