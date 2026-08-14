@@ -7,10 +7,7 @@
 
 ### 🧐 About Me
 
-* 🎓 **Background:** BA (Hons) in Marketing with a focus on data-driven strategy and business metrics.
-* 📜 **Certification:** Google Data Analytics Professional Certificate.
-* 💼 **Experience:** 4+ years in operational data management, process auditing, and regulatory reporting.
-* 🎯 **Current Focus:** Exploratory Data Analysis (EDA), SQL data modelling, and automated reporting.
+I’m a Marketing graduate transitioning into data analytics with a strong passion for turning raw data into actionable insights. Having recently earned my Google Data Analytics Professional Certificate, I’ve built a solid foundation from scratch in SQL, Python, and Tableau. Driven by curiosity and continuous learning, I enjoy exploring datasets, solving problems, and building projects that bridge business strategy with data-driven decision-making.
 
 ---
 
