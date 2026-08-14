@@ -37,15 +37,6 @@
 
 ---
 
-### 📈 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial&hide_border=true" alt="Jiwan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="left">
