@@ -42,7 +42,6 @@ I have a genuine passion for data and enjoy turning messy, complex datasets into
 | :--- | :--- | :--- |
 | **🏔️ Himalayan Climbing Safety Analysis** | Historical trend analysis of mountaineering safety and accident rates (2020–2025) | `Python` `Pandas` `Seaborn` |
 | **🛍️ Retail Customer Shopping Trends** | Exploratory Data Analysis on customer demographics, purchase behaviour, and seasonal demand | `Python` `Jupyter` `Matplotlib` |
-| **🍽️ Restaurant Order Dynamics & Menu Performance** | Relational database analysis to evaluate menu performance, revenue drivers, and basket sizes | `MySQL Workbench` `SQL` |
 
 ---
 
