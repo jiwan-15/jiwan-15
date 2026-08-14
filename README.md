@@ -1,6 +1,6 @@
 # Hi there, I'm Jiwan 👋 📊
 
-> **Data Analyst | Storyteller through Data | Insight Seeker**  
+> **Aspiring Data Analyst | Storyteller through Data | Insight Seeker**  
 > *Translating raw datasets into actionable insights, clear visual stories, and real business value.*
 
 ---
