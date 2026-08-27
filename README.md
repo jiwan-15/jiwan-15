@@ -1,5 +1,6 @@
 # Hi there, I'm Jiwan 👋 📊
 
+BA in Marketing | Google Data Analytics Certified | Python, SQL, Tableau, Google Sheets/Excel 
 ---
 
 ### 🧐 About Me
