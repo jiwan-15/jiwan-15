@@ -4,7 +4,7 @@
 
 ### 🧐 About Me
 
-I’m a Marketing graduate transitioning into data analytics with a strong passion for turning raw data into actionable insights. Having recently earned my Google Data Analytics Professional Certificate, I’ve built a solid foundation from scratch in SQL, Python, and Tableau. Driven by curiosity and continuous learning, I enjoy exploring datasets, solving problems, and building projects that bridge business strategy with data-driven decision-making.
+I’m passionate about exploring data, identifying meaningful patterns, and transforming complex information into actionable insights that solve business challenges and support informed, data-driven decision-making.
 
 ---
 
