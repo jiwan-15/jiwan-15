@@ -2,7 +2,7 @@
 
 ---
 
-### 🧐 About Me
+### 😏 About Me
 
 I’m passionate about exploring data, identifying meaningful patterns, and transforming complex information into actionable insights that solve business challenges and support informed, data-driven decision-making.
 
